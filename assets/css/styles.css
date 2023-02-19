@@ -1,0 +1,64 @@
+#main-window {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+#start-btn {
+  margin-top: 50px;
+}
+
+#timer {
+  padding: 20px;
+}
+
+h1 {
+  /* display: flex; */
+  font-size: 40px;
+  padding: 200px 0 50px;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+#instructions {
+  font-size: 25px;
+  text-align: center;
+  padding: 0 70px;
+}
+
+.horizontal-rule {
+  width: 50%;
+  margin-top: 20px;
+}
+
+.high-scores {
+  padding: 20px;
+}
+
+.correctIncorrect {
+  font-size: 25px;
+  padding: 50px 0;
+}
+
+.btn {
+  /* background-color: black;
+  color: white; */
+}
+
+.btn-container {
+  display: flex;
+}
+
+.yes-no-btn {
+  margin: 20px;
+  width: 50px;
+}
+
+.input {
+  margin-top: 20px;
+}
